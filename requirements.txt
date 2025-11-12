@@ -1,0 +1,10 @@
+ultralytics==8.3.0
+streamlit==1.31.0
+opencv-python
+torch
+torchvision
+torchaudio
+matplotlib
+Pillow
+PyYAML
+pandas
